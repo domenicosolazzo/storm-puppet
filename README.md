@@ -7,6 +7,7 @@ Puppet module for configuration of storm clusters
 A fork from https://bitbucket.org/qanderson/storm-puppet, adapted to work with a vagrant based development cluster for the purposes of the Storm cookbook.
 Found it thanks to the book "Storm Real-time Processing Cookbook". Highly recommended!
 
+My repository is only for testing some technologies. Please use the official repository  https://bitbucket.org/qanderson/storm-puppet 
 Requirements
 ------------
 You must have your own internal repository and include the 3 packages
