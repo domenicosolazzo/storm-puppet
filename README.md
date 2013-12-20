@@ -76,6 +76,3 @@ Hiera Configuration for Storm1 cluster (/etc/puppet/hieradata/production/storm1/
     #_ SUPERVISOR _#
     supervisor_workers: '50'
 
-You can use hiera to override memory settings by host, or by cluster. It's all up to your hiera.yaml scoping resolution. If you have any questions, or improvements. Please submit a pull request / issue.
-
-Thanks!
